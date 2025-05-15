@@ -1,1 +1,41 @@
-Hello I'm gojer!
+# Hello,  I'm Orlando Ascanio (gojer)! :3
+
+I'm a **backend-focused full-stack developer** passionate about building scalable systems, powerful APIs, and cloud-first web applications that solve real-world problems.
+
+🚀 **Mission:** Empower small teams and founders by delivering reliable, maintainable, and impactful software solutions — with a focus on backend architecture, API design, database management, and automation.
+
+### What I Do
+- Design and build **robust backend systems** and **RESTful APIs**  
+- Develop **full-stack applications** with React, Node.js, and SQL  
+- Implement **security best practices** and **software testing**  
+- Automate workflows and optimize cloud & database architecture  
+- Provide technical documentation and IT consulting for startups  
+
+### Tech Stack  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+
+### Let's Connect!
+I'm open to:
+- Remote or relocation full-time roles  
+- Freelance/contract work with serious teams or founders  
+- Collaborations on mission-driven, innovative products  
+
+📫 Feel free to reach out!  
+[LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Portfolio](https://.....com)  
+
+---
+
+### Featured Projects  
+🔹 **[School Web App](https://....com)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.  
+🔹 **[Project 2]** – Short description...  
+🔹 **[Project 3]** – Short description...  
+🔹 **[Project 4]** – Short description...  
+
+---
+
+Thanks for stopping by! Let’s build something meaningful. 🙌
