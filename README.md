@@ -1,8 +1,9 @@
 <h1 align="center"><b>Hello , I'm Orlando Ascanio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/l1LPYsyXT5o.gif" />
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> **About Me:**
+<img align="right" width=300px alt="Unicorn" src="https://tenor.com/l1LPYsyXT5o.gif" />\
+<div class="tenor-gif-embed" data-postid="9957984438477863240" data-share-method="host" data-aspect-ratio="1.09211" data-width="100%"><a href="https://tenor.com/view/cats-window-cute-neko-couple-gif-9957984438477863240">Cats Window GIF</a>from <a href="https://tenor.com/search/cats-gifs">Cats GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me:
 
 I'm a **backend-focused full-stack developer** passionate about building scalable systems, powerful APIs, and cloud-first web applications that solve real-world problems.
 - 🌱 I’m currently learning ...
