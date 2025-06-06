@@ -1,4 +1,4 @@
-# Hello,  I'm Orlando Ascanio (gojer)! :3
+<h1 align="center"><b>Hello , I'm Orlando Ascanio</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 I'm a **backend-focused full-stack developer** passionate about building scalable systems, powerful APIs, and cloud-first web applications that solve real-world problems.
 
