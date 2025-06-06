@@ -2,7 +2,7 @@
 
 
 <img align="right" width=300px alt="Unicorn" src="https://tenor.com/l1LPYsyXT5o.gif" />
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp;About Me:
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me:
 
 I'm a **backend-focused full-stack developer** passionate about building scalable systems, powerful APIs, and cloud-first web applications that solve real-world problems.
 - 🌱 I’m currently learning ...
