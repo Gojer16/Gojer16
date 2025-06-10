@@ -46,13 +46,13 @@ I'm open to:
 [LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Portfolio](http://orlandoascanio.com)  
 
 ---
-
+<span> 
 ### Featured Projects  
 🔹 **[Project 1](https://....com)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.  
 🔹 **[Project 2](https://github.com/Gojer16/Portfolio)** – A responsive, animated portfolio site built with React, TailwindCSS, and Framer Motion. Features include smooth page transitions, reusable components, a contact form integrated with Formspree, and optimized SEO performance. Designed to showcase developer skills, projects, and personal branding.
 🔹 **[Project 3]** – Short description...  
 🔹 **[Project 4]** – Short description...  
-
+</span>
 ---
 
 Thanks for stopping by! Let’s build something meaningful. 🙌
