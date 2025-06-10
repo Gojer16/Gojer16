@@ -43,7 +43,7 @@ I'm open to:
 - Collaborations on mission-driven, innovative products  
 
 📫 Feel free to reach out!  
-[LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Portfolio](http://orlandoascanio.com)  
+[LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Portfolio]([http://orlandoascanio.com](https://portfolio-orlandos-projects-8aa08152.vercel.app/))  
 
 ---
 
