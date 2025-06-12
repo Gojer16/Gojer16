@@ -57,7 +57,7 @@ I'm open to:
 
 Thanks for stopping by! Let’s build something meaningful. 🙌
 ### 🧠 Personal Motto  
-> *“Become the best man your bloodline has ever produced — and don’t wait for permission.”*
+> *“Become the best man my bloodline has ever produced, and I won't wait for permission.”*
 
 <h2>Github stats:</h2> 
 
