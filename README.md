@@ -10,11 +10,11 @@ I'm a **backend-focused full-stack developer** passionate about building scalabl
 
 ---
 
-> I wake up every day to prove that relentless learning and grit can outmatch privilege, status, or luck—even when life isn't fair.
->
-> I build to break generational limits—so knowledge, freedom, and opportunity aren’t luxuries, but standards for me and my future family.
->
-> My mission is to create tools that solve real problems, improve lives, and build the future I want to live in.
+I wake up every day to prove that relentless learning and grit can outmatch privilege, status, or luck—even when life isn't fair.
+
+I build to break generational limits—so knowledge, freedom, and opportunity aren’t luxuries, but standards for me and my future family.
+
+My mission is to create tools that solve real problems, improve lives, and build the future I want to live in.
 
 ---
 
