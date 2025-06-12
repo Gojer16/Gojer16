@@ -8,15 +8,28 @@
 
 I'm a **backend-focused full-stack developer** passionate about building scalable systems, powerful APIs, and cloud-first web applications that solve real-world problems.
 
+---
 
-🚀 **Mission:** Empower small teams and founders by delivering reliable, maintainable, and impactful software solutions — with a focus on backend architecture, API design, database management, and automation.
+> I wake up every day to prove that relentless learning and grit can outmatch privilege, status, or luck—even when life isn't fair.
+>
+> I build to break generational limits—so knowledge, freedom, and opportunity aren’t luxuries, but standards for me and my future family.
+>
+> My mission is to create tools that solve real problems, improve lives, and build the future I want to live in.
 
-### What I Do
-- Design and build **robust backend systems** and **RESTful APIs**  
-- Develop **full-stack applications** with React, Node.js, and SQL  
-- Implement **security best practices** and **software testing**  
-- Automate workflows and optimize cloud & database architecture  
-- Provide technical documentation and IT consulting for startups  
+---
+
+### 🚀 Mission
+**Empower small teams and founders** by building **reliable**, **scalable**, and **impact-driven** software—especially in backend architecture, API design, database systems, and automation.
+**No vibe coding. Just depth, clarity, and purpose.**
+
+---
+
+### 🔧 What I Do
+- Design and build **robust backend systems** and **RESTful APIs**
+- Develop **full-stack applications** using Node.js, React, Next.js, and SQL/NoSQL
+- Apply **security best practices**, **automated testing**, and **CI/CD pipelines**
+- Optimize infrastructure with **Docker**, **cloud workflows**, and **performance tuning**
+- Write clean code, scalable architecture, and **developer-first documentation**
 
 ### Tech Stack  
 <span> 
