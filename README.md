@@ -54,9 +54,9 @@ I'm a **backend-focused full-stack developer** passionate about building scalabl
 ### ✨ Featured Projects
 🔹 **[Project 1 Title](https://github.com/Gojer16/PaginaEscuela)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.
 
-🔹 **[Project 2 Title](Link_to_Project_2)** – 
+🔹 **[Project 2 Title]()** – 
 
-🔹 **[Project 3 Title](Link_to_Project_3)** –
+🔹 **[Project 3 Title]()** –
 
 🔹 **[Orlando's Portfolio](https://github.com/Gojer16/Portfolio)** – A responsive, animated portfolio site built with React, TailwindCSS, and Framer Motion. Features include smooth page transitions, reusable components, a contact form integrated with Formspree, and optimized SEO performance. Designed to showcase developer skills, projects, and personal branding.
 
