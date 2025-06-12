@@ -1,4 +1,5 @@
-# Hi, I'm Orlando Ascanio 👋
+# Orlando Ascanio | Full-Stack Developer · Backend Core Specialist
+
 
 I'm a **backend-focused full-stack developer** passionate about building scalable systems, powerful APIs, and cloud-first web applications that solve real-world problems.
 
@@ -52,8 +53,11 @@ I'm a **backend-focused full-stack developer** passionate about building scalabl
 
 ### ✨ Featured Projects
 🔹 **[Project 1 Title](https://....com)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.
+
 🔹 **[Project 2 Title](Link_to_Project_2)** – *Concise description of Project 2's purpose and tech.*
+
 🔹 **[Project 3 Title](Link_to_Project_3)** – *Concise description of Project 3's purpose and tech.*
+
 🔹 **[Orlando's Portfolio](https://github.com/Gojer16/Portfolio)** – A responsive, animated portfolio site built with React, TailwindCSS, and Framer Motion. Features include smooth page transitions, reusable components, a contact form integrated with Formspree, and optimized SEO performance. Designed to showcase developer skills, projects, and personal branding.
 
 ---
