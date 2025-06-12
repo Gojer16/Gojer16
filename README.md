@@ -36,11 +36,11 @@ I'm a **backend-focused full-stack developer** passionate about building scalabl
 
 </span>
 
-### Let's Connect!
+### 🤝 Let’s Connect  
 I'm open to:
-- Remote or relocation full-time roles  
-- Freelance/contract work with serious teams or founders  
-- Collaborations on mission-driven, innovative products  
+- 🌍 Remote or relocation full-time roles.
+- 🧩 Freelance/contract work with serious teams or founders.
+- 🛠 Collaborations on **mission-driven**, innovative products.
 
 📫 Feel free to reach out!  
 [LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Portfolio](https://portfolio-orlandos-projects-8aa08152.vercel.app/)
