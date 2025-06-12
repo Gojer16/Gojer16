@@ -1,10 +1,4 @@
-<h1 align="center"><b>Hello , I'm Orlando Ascanio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB1bWUwbnNlbnRyejU5bjZjbTM5OHF3eDVlMG42amo4anl1dWs0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5MFvAwc6GPf2/giphy.gif" />
-
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me:
+# Hi, I'm Orlando Ascanio 👋
 
 I'm a **backend-focused full-stack developer** passionate about building scalable systems, powerful APIs, and cloud-first web applications that solve real-world problems.
 
