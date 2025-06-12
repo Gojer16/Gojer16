@@ -4,11 +4,11 @@ I'm a **backend-focused full-stack developer** passionate about building scalabl
 
 ---
 
-I wake up every day to prove that relentless learning and grit can outmatch privilege, status, or luck—even when life isn't fair.
-
-I build to break generational limits—so knowledge, freedom, and opportunity aren’t luxuries, but standards for me and my future family.
-
-My mission is to create tools that solve real problems, improve lives, and build the future I want to live in.
+> I wake up every day to prove that relentless learning and grit can outmatch privilege, status, or luck—even when life isn't fair.
+>
+> I build to break generational limits—so knowledge, freedom, and opportunity aren’t luxuries, but standards for me and my future family.
+>
+> My mission is to create tools that solve real problems, improve lives, and build the future I want to live in.
 
 ---
 
@@ -25,8 +25,10 @@ My mission is to create tools that solve real problems, improve lives, and build
 - Optimize infrastructure with **Docker**, **cloud workflows**, and **performance tuning**
 - Write clean code, scalable architecture, and **developer-first documentation**
 
-### Tech Stack  
-<span> 
+---
+
+### 💻 Tech Stack
+<span>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -38,42 +40,39 @@ My mission is to create tools that solve real problems, improve lives, and build
   <img src= "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
   <img src= "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-
 </span>
 
 ---
 
-### 📚 Currently Learning  
-- 🧱 **Nest.js** — for enterprise-grade Node.js architecture  
+### 📚 Currently Learning
+- 🧱 **Nest.js** — for enterprise-grade Node.js architecture
 - ⚡ **FastAPI** — modern, fast Python backend framework
 
 ---
 
-### 🤝 Let’s Connect  
+### ✨ Featured Projects
+🔹 **[Project 1 Title](https://....com)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.
+🔹 **[Project 2 Title](Link_to_Project_2)** – *Concise description of Project 2's purpose and tech.*
+🔹 **[Project 3 Title](Link_to_Project_3)** – *Concise description of Project 3's purpose and tech.*
+🔹 **[Orlando's Portfolio](https://github.com/Gojer16/Portfolio)** – A responsive, animated portfolio site built with React, TailwindCSS, and Framer Motion. Features include smooth page transitions, reusable components, a contact form integrated with Formspree, and optimized SEO performance. Designed to showcase developer skills, projects, and personal branding.
+
+---
+
+### 🤝 Let’s Connect
 I'm open to:
 - 🌍 Remote or relocation full-time roles.
 - 🧩 Freelance/contract work with serious teams or founders.
 - 🛠 Collaborations on **mission-driven**, innovative products.
 
-📫 Feel free to reach out!  
+📫 Feel free to reach out!
 [LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Portfolio](https://portfolio-orlandos-projects-8aa08152.vercel.app/)
 
 ---
 
-### Featured Projects  
-🔹 **[Project 1](https://....com)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.  
-🔹 **[Project 2]** – Short description...  
-🔹 **[Project 3]** – Short description...  
-🔹 **[Project 4](https://github.com/Gojer16/Portfolio)** – A responsive, animated portfolio site built with React, TailwindCSS, and Framer Motion. Features include smooth page transitions, reusable components, a contact form integrated with Formspree, and optimized SEO performance. Designed to showcase developer skills, projects, and personal branding.
+### GitHub Stats
+[![](https://github-readme-stats.vercel.app/api?username=gojer16&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/gojer16)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=gojer16&theme=material-palenight)](https://github.com/gojer16)
 
 ---
 
 Thanks for stopping by! Let’s build something meaningful. 🙌
-### 🧠 Personal Motto  
-> *“Become the best man my bloodline has ever produced, and I won't wait for permission.”*
-
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=gojer16&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/gojer16)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=gojer16&theme=material-palenight)](https://github.com/gojer16)
-</div>
