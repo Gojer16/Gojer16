@@ -52,7 +52,7 @@ I'm a **backend-focused full-stack developer** passionate about building scalabl
 ---
 
 ### ✨ Featured Projects
-🔹 **[Project 1 Title](https://....com)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.
+🔹 **[Project 1 Title](https://github.com/Gojer16/PaginaEscuela)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.
 
 🔹 **[Project 2 Title](Link_to_Project_2)** – *Concise description of Project 2's purpose and tech.*
 
