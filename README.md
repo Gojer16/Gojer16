@@ -7,9 +7,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me:
 
 I'm a **backend-focused full-stack developer** passionate about building scalable systems, powerful APIs, and cloud-first web applications that solve real-world problems.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - FastAPI
+
 
 🚀 **Mission:** Empower small teams and founders by delivering reliable, maintainable, and impactful software solutions — with a focus on backend architecture, API design, database management, and automation.
 
@@ -35,6 +33,14 @@ I'm a **backend-focused full-stack developer** passionate about building scalabl
   <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
 </span>
+
+---
+
+### 📚 Currently Learning  
+- 🧱 **Nest.js** — for enterprise-grade Node.js architecture  
+- ⚡ **FastAPI** — modern, fast Python backend framework
+
+---
 
 ### 🤝 Let’s Connect  
 I'm open to:
