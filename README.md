@@ -1,7 +1,7 @@
-# Orlando Ascanio | Full-Stack Developer · Backend Core Specialist
+# Orlando Ascanio | Software Engineer 
 
 
-I'm a **backend-focused full-stack developer** passionate about building scalable systems, powerful APIs, and cloud-first web applications that solve real-world problems.
+I'm a **Software Engineer** passionate about building scalable systems, powerful APIs, and cloud-first web applications that solve real-world problems.
 
 ---
 
