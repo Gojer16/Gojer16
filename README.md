@@ -51,13 +51,13 @@ I'm a **Software Engineer** passionate about building scalable systems, powerful
 ---
 
 ### ✨ Featured Projects
-🔹 **[Project 1 Title](https://github.com/Gojer16/PaginaEscuela)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.
+🔹 **[School Website](https://github.com/Gojer16/PaginaEscuela)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.
 
-🔹 **[Project 2 Title]()** – 
+🔹 **[Orlando-AI-Assistant](https://github.com/Gojer16/Orlando-AI-Assistant)** – A Resume Q&A Chatbot is a production-ready AI application built with Flask and the Google Gemini API. It processes questions and delivers tailored answers based on my resume.
 
-🔹 **[Project 3 Title]()** –
+🔹 **[Librora](https://github.com/Gojer16/Librora)** – A SaaS-style book management platform that combines a global catalog with personal libraries and reading analytics.
 
-🔹 **[Orlando's Portfolio](https://github.com/Gojer16/Portfolio)** – A responsive, animated portfolio site built with React, TailwindCSS, and Framer Motion. Features include smooth page transitions, reusable components, a contact form integrated with Formspree, and optimized SEO performance. Designed to showcase developer skills, projects, and personal branding.
+🔹 **[Orlando's Resume](https://github.com/Gojer16/Personal-Resume)** - A Personal online resume. Modern, responsive, crafted with React, Tailwind CSS and Framer Motion with full-page scroll snapping and an AI-powered Resume Q&A Chatbot. 
 
 ---
 
