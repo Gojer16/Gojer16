@@ -49,7 +49,7 @@ I'm a **Software Engineer** passionate about building scalable systems, powerful
 - ⚡ **FastAPI** — modern, fast Python backend framework
 
 ---
-<div>
+
 ### ✨ Featured Projects
 🔹 **[School Website](https://github.com/Gojer16/PaginaEscuela)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.
 
@@ -58,7 +58,7 @@ I'm a **Software Engineer** passionate about building scalable systems, powerful
 🔹 **[Librora](https://github.com/Gojer16/Librora)** – A SaaS-style book management platform that combines a global catalog with personal libraries and reading analytics.
 
 🔹 **[Orlando's Resume](https://github.com/Gojer16/Personal-Resume)** - A Personal online resume. Modern, responsive, crafted with React, Tailwind CSS and Framer Motion with full-page scroll snapping and an AI-powered Resume Q&A Chatbot. 
-</div>
+
 ---
 
 ### 🤝 Let’s Connect
