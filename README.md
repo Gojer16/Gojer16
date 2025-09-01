@@ -49,16 +49,16 @@ I'm a **Software Engineer** passionate about building scalable systems, powerful
 - ⚡ **FastAPI** — modern, fast Python backend framework
 
 ---
-
+<div>
 ### ✨ Featured Projects
 🔹 **[School Website](https://github.com/Gojer16/PaginaEscuela)** – A full-stack institutional website built with React, Node.js, and MySQL with security implementations.
 
-🔹 **[Orlando-AI-Assistant](https://github.com/Gojer16/Orlando-AI-Assistant)** – A Resume Q&A Chatbot is a production-ready AI application built with Flask and the Google Gemini API. It processes questions and delivers tailored answers based on my resume.
+🔹 **[Orlando-AI-Assistant](https://github.com/Gojer16/Orlando-AI-Assistant)** – A Resume Q&A Chatbot is a production-ready AI application built with Flask and the Google Gemini API.
 
 🔹 **[Librora](https://github.com/Gojer16/Librora)** – A SaaS-style book management platform that combines a global catalog with personal libraries and reading analytics.
 
 🔹 **[Orlando's Resume](https://github.com/Gojer16/Personal-Resume)** - A Personal online resume. Modern, responsive, crafted with React, Tailwind CSS and Framer Motion with full-page scroll snapping and an AI-powered Resume Q&A Chatbot. 
-
+</div>
 ---
 
 ### 🤝 Let’s Connect
@@ -68,7 +68,7 @@ I'm open to:
 - 🛠 Collaborations on **mission-driven**, innovative products.
 
 📫 Feel free to reach out!
-[LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Portfolio](https://portfolio-orlandos-projects-8aa08152.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Resume](http://react-basic-resume.vercel.app/)
 
 ---
 
