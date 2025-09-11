@@ -7,7 +7,7 @@ I’m a **Software Engineer** passionate about building scalable systems, secure
 
 > I’m here to grow, create, and serve.
 > I love building things that reflect who I am and who I’m becoming—driven by curiosity, mastery, and the belief that life can be better for others too.
-> > My mission is to create tools, ideas, and systems that help people unlock their potential, feel more human, and build the future they want to live in.
+> My mission is to create tools, ideas, and systems that help people unlock their potential, feel more human, and build the future they want to live in.
 
 ---
 
