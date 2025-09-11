@@ -55,8 +55,8 @@ I’m a **Software Engineer** passionate about building scalable systems, secure
 
 ### 🤝 Let’s Connect
 I'm open to:
-- 🌍 **Remote** or EU relocation roles (Backend / Full-Stack)
-- 🧩 **Freelance** or **contract** work with serious teams
+- 🌍 **Remote** or EU relocation roles (Backend / Full-Stack).
+- 🧩 **Freelance** or **contract** work with serious teams.
 - 🛠 Collaborations on **mission-driven**, innovative products.
 
 📫 Feel free to reach out!
