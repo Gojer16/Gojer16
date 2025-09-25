@@ -46,10 +46,18 @@ I’m an AI Product Engineer passionate about building AI-powered applications, 
 
 ### ✨ Featured Projects
 
- 🔹 [Elevare](https://github.com/Gojer16/Elevare) – A minimalist productivity app + AI assistant that helps users identify their ONE Thing each day.
- 🔹 [Orlando-AI-Assistant](https://github.com/Gojer16/Orlando-AI-Assistant) – Resume Q&A chatbot built with Flask + Google Gemini API.
- 🔹 [Librora](https://github.com/Gojer16/Librora) – SaaS book management platform with global catalog, personal libraries, and reading analytics. 
- 🔹 [School Website](https://github.com/Gojer16/School-Webiste) – Production-ready institutional site (React + Node.js + MySQL) used by 400+ students/staff.
+- **[Elevare](https://github.com/Gojer16/Elevare)**  
+  A minimalist productivity app + AI assistant that helps users identify their ONE Thing each day.  
+
+- **[Orlando-AI-Assistant](https://github.com/Gojer16/Orlando-AI-Assistant)**  
+  Resume Q&A chatbot built with Flask + Google Gemini API.  
+
+- **[Librora](https://github.com/Gojer16/Librora)**  
+  SaaS book management platform with global catalog, personal libraries, and reading analytics.  
+
+- **[School Website](https://github.com/Gojer16/School-Webiste)**  
+  Production-ready institutional site (React + Node.js + MySQL) used by 400+ students/staff.  
+
 
 ---
 
