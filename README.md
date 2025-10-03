@@ -1,6 +1,6 @@
-# Orlando Ascanio | AI Product Engineer
+# Orlando Ascanio | AI Engineer
 
-I’m an AI Product Engineer passionate about building AI-powered applications, scalable systems, and cloud-first solutions that solve real-world problems. My focus is turning ideas into products people love, blending full-stack engineering with applied AI.
+I’m an AI Engineer passionate about building AI-powered applications, scalable systems, and cloud-first solutions that solve real-world problems. My focus is turning ideas into products people love, blending full-stack engineering with applied AI.
 
 ---
 
