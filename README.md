@@ -68,7 +68,7 @@ I'm open to:
 - 🛠 Collaborations on **mission-driven**, **AI-powered products.**
 
 📫 Feel free to reach out!
-[LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Resume](http://react-basic-resume.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Resume](https://personal-landing-nu.vercel.app)
 
 ---
 
