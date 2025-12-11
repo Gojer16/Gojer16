@@ -1,64 +1,67 @@
-# Orlando Ascanio | AI Engineer
+# Orlando Ascanio | AI Engineer & Product Builder
 
-I’m an AI Engineer passionate about building AI-powered applications, scalable systems, and cloud-first solutions that solve real-world problems. My focus is turning ideas into products people love, blending full-stack engineering with applied AI.
-
----
-
-> I’m here to grow, create, and serve.
-> I love building things that reflect who I am and who I’m becoming—driven by curiosity, mastery, and the belief that life can be better for others too.
-> My mission is to create tools, ideas, and systems that help people unlock their potential, feel more human, and build the future they want to live in.
+I build AI-powered applications, scalable systems, and developer-focused tools that turn real problems into working products.
+My work blends full-stack engineering with applied AI, deliberate practice, and a systems-thinking mindset.
 
 ---
 
-### 🔧 What I Do
+## What Drives Me
+> Growth, clarity, and craftsmanship.
+> I build things that reflect who I’m becoming and I ship tools that help people think better, work smarter, and unlock their potential.
+
+I focus on creating useful, robust, and human-centered software that solves real problems.
+
+---
+
+### 🔧 What I Build
 - **Design** and ship **AI-powered** products with real-world impact.
-- **Architect** and build backend systems and **REST APIs** (Node.js, FastAPI, Flask).
-- Develop **full-stack** apps with React, Next.js, SQL/NoSQL, Prisma.
-- **Integrate** LLMs, embeddings, RAG, and **AI** assistants into applications.
-- Implement **security** best practices, automated **testing,** and CI/CD.
-- Deliver **clean code,** **scalable architecture,** and developer-first documentation.
+- Production-ready **AI features,** assistants, and automation workflows.
+- Scalable **APIs** and backend systems (Node.js, FastAPI, Flask).
+- Full-stack applications with **React / Next.js / Tailwind.**
+- **AI integrations:** LLMs, embeddings, vector search, RAG, agents.
+- **Strong engineering foundations:** testing, security, CI/CD.
+- Clean architecture with emphasis on **clarity, readability, and maintainability.**
 
 ---
 
 ### 💻 Tech Stack
 <span> 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi">
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
-<img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">  
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> 
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+  <img src="https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"> 
 </span>
 
 ---
 
-### 📚 Currently Learning
-- **LangChain** — for production-ready AI assistants and RAG pipelines.  
-- **MCP (Model Context Protocol)** — experimenting with the next standard for AI-native apps. 
--  **AI Agents & Automation** → building tools that work for people.
+### 📚 Currently Exploring
+- **LangChain** → production AI systems, tool integration, and orchestration.
+- **Model Context Protocol (MCP)** → next-gen AI-native app architecture.
+- **AI agents,** automations, and reasoning frameworks.
 
 ---
 
 ### ✨ Featured Projects
 
 - **[Elevare](https://github.com/Gojer16/Elevare)**  
-  A minimalist productivity app + AI assistant that helps users identify their ONE Thing each day.  
+  Productivity app + AI assistant built to help people identify their ONE meaningful priority each day.
  
 ---
 
 ### 🤝 Let’s Connect
-I'm open to:
+Open to:
 - 🌍 **Remote** or EU relocation roles **(AI / Full-Stack).**
-- 🧩 **Freelance** or **contract** work with serious teams.
+- 🧩 **Freelance** or **contract** work.
 - 🛠 Collaborations on **mission-driven**, **AI-powered products.**
 
 📫 Feel free to reach out!
-[LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Resume](https://personal-landing-nu.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Resume](https://orlando-dev.vercel.app)
 
 ---
 
@@ -68,4 +71,4 @@ I'm open to:
 
 ---
 
-Thanks for stopping by! Let’s build something meaningful with **AI.** 🙌
+Thanks for stopping by! Let’s build something meaningful.
