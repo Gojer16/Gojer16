@@ -1,4 +1,4 @@
-# Orlando Ascanio | AI Engineer & Product Builder
+# Orlando Ascanio | AI Engineer 
 
 I build AI-powered applications, scalable systems, and developer-focused tools that turn real problems into working products.
 My work blends full-stack engineering with applied AI, deliberate practice, and a systems-thinking mindset.
