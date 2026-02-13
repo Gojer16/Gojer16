@@ -21,13 +21,13 @@ If it improves how people think, build, or operate, I want to work on it.
 - **[Elevare](https://github.com/Gojer16/Elevare)**  
   Productivity app + AI assistant built to help people identify their ONE meaningful priority each day.
 
-- **[Stride App](https://github.com/Gojer16/StrideApp)**
+- **[Stride App](https://github.com/Gojer16/StrideApp)**  
   A macOS application that tracks your active application and window usage time.
 
-- **[Dock Hunter](https://github.com/Gojer16/Dock-Hunter)**
+- **[Dock Hunter](https://github.com/Gojer16/Dock-Hunter)**  
   A powerful Python CLI tool that automates job discovery by searching multiple job boards, parsing job postings, and intelligently filtering them.
 
-- **[RoleMatch](https://github.com/Gojer16/RoleMatch)**
+- **[RoleMatch](https://github.com/Gojer16/RoleMatch)**  
   AI-powered resume tailoring system that adapts your base resume to specific job descriptions while preserving truthfulness.
 
 - **[AuthForge](https://github.com/Gojer16/AuthForge)**
