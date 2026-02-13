@@ -8,10 +8,10 @@ I design and build thoughtful software systems that solve real problems, scale r
 
 I’m interested in the intersection of:
 
-- Software engineering  
-- Applied AI  
-- Data and decision systems  
-- Human-centered tools
+- Software engineering.
+- Applied AI.
+- Data and decision systems.  
+- Human-centered tools.
 
 If it improves how people think, build, or operate, I want to work on it.
   
