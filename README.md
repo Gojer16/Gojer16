@@ -1,5 +1,7 @@
 # Orlando Ascanio
 
+> Grow. Build. Refine. Repeat.
+
 I design and build thoughtful software systems that solve real problems, scale responsibly, and feel clean from the inside out.
 
 ---
@@ -11,7 +13,7 @@ I’m interested in the intersection of:
 - Data and decision systems  
 - Human-centered tools
 
-If it improves how people think, build, or operate I want to work on it.
+If it improves how people think, build, or operate, I want to work on it.
   
 ---
 ### ✨ Featured Projects
@@ -24,7 +26,7 @@ If it improves how people think, build, or operate I want to work on it.
 ---
 
 ### 🤝 Let’s Build Something Real
-Open to remote roles, collaborations, or projects.
+Open to remote roles, high-ownership environments, and ambitious product teams.
 
 📫 Feel free to reach out!
 [LinkedIn](https://www.linkedin.com/in/orlando-ascanio-dev) | [Email](mailto:gojer@naver.com) | [Resume](https://orlando-dev.vercel.app)
