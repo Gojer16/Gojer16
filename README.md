@@ -30,7 +30,7 @@ If it improves how people think, build, or operate, I want to work on it.
 - **[RoleMatch](https://github.com/Gojer16/RoleMatch)**  
   AI-powered resume tailoring system that adapts your base resume to specific job descriptions while preserving truthfulness.
 
-- **[AuthForge](https://github.com/Gojer16/AuthForge)**
+- **[AuthForge](https://github.com/Gojer16/AuthForge)**  
   Authentication playground that demonstrates how modern 2FA systems work under the hood.
   
 ---
