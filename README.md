@@ -18,6 +18,9 @@ If it improves how people think, build, or operate, I want to work on it.
 ---
 ### ✨ Featured Projects
 
+- **[Talon](https://github.com/Gojer16/Talon)**  
+  A personal AI assistant that lives on your machine, sees your full desktop, and talks to you on the platforms you already use. Inspired by OpenClaw.
+
 - **[Elevare](https://github.com/Gojer16/Elevare)**  
   Productivity app + AI assistant built to help people identify their ONE meaningful priority each day.
 
