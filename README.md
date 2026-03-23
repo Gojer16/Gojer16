@@ -22,7 +22,7 @@ If it improves how people think, build, or operate, I want to work on it.
 - **[Driva](https://www.orlandoascanio.com/en/products/driva)**  
   An AI-powered Chrome extension that turns your browser into a natural-language automation engine for web tasks, navigation, summarization, and agent workflows.
 
-- **[GlassLink](https://github.com/Gojer16/GlassLink)**
+- **[GlassLink](https://github.com/Gojer16/GlassLink)**  
   Mac-to-Android TV screen mirroring project.
 
 - **[Talon](https://github.com/Gojer16/Talon)**  
