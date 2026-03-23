@@ -19,7 +19,7 @@ If it improves how people think, build, or operate, I want to work on it.
 ### ✨ Featured Projects
 
 
-- **[Driva](https://www.orlandoascanio.com/en/products/driva)**
+- **[Driva](https://www.orlandoascanio.com/en/products/driva)**  
   An AI-powered Chrome extension that turns your browser into a natural-language automation engine for web tasks, navigation, summarization, and agent workflows.
 
 
