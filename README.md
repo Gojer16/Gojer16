@@ -16,36 +16,11 @@ I’m interested in the intersection of:
 If it improves how people think, build, or operate, I want to work on it.
   
 ---
-### ✨ Featured Projects
-
-
-- **[Driva](https://www.orlandoascanio.com/en/products/driva)**  
-  An AI-powered Chrome extension that turns your browser into a natural-language automation engine for web tasks, navigation, summarization, and agent workflows.
+### ✨ Featured Products
 
 - **[Amethyst](https://www.orlandoascanio.com/en/products/amethyst)**  
   Amethyst is a browser extension that tracks where your time actually goes locally, accurately, and privately.
 
-- **[GlassLink](https://github.com/Gojer16/GlassLink)**  
-  Mac-to-Android TV screen mirroring project.
-
-- **[Talon](https://github.com/Gojer16/Talon)**  
-  A personal AI assistant that lives on your machine, sees your full desktop, and talks to you on the platforms you already use. Inspired by OpenClaw.
-
-- **[Elevare](https://github.com/Gojer16/Elevare)**  
-  Productivity app + AI assistant built to help people identify their ONE meaningful priority each day.
-
-- **[Stride App](https://github.com/Gojer16/StrideApp)**  
-  A macOS application that tracks your active application and window usage time.
-
-- **[Dock Hunter](https://github.com/Gojer16/Dock-Hunter)**  
-  A powerful Python CLI tool that automates job discovery by searching multiple job boards, parsing job postings, and intelligently filtering them.
-
-- **[RoleMatch](https://github.com/Gojer16/RoleMatch)**  
-  AI-powered resume tailoring system that adapts your base resume to specific job descriptions while preserving truthfulness.
-
-- **[AuthForge](https://github.com/Gojer16/AuthForge)**  
-  Authentication playground that demonstrates how modern 2FA systems work under the hood.
-  
 ---
 
 ### 🤝 Let’s Build Something Real
