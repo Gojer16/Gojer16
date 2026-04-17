@@ -21,6 +21,8 @@ If it improves how people think, build, or operate, I want to work on it.
 - **[Amethyst](https://www.orlandoascanio.com/en/products/amethyst)**  
   Amethyst is a browser extension that tracks where your time actually goes locally, accurately, and privately.
 
+- **[ResistGate](https://www.orlandoascanio.com/en/products/resistgate)**  
+  ResistGate helps you stop reflexive browsing by adding intentional friction before distracting sites. Instead of one-click unblocking, you complete a focused typing challenge to earn temporary access. 
 ---
 
 ### 🤝 Let’s Build Something Real
